@@ -39,7 +39,7 @@ This project was covered by **The Express Tribune**, recognizing it as an innova
   > **Alina Baber**, **E-Voting System Using Iris Recognition**. 2014.
 
 - An **electronic copy** of any related publications should be sent to:  
-  **alinababer@example.com** *(replace with your contact email)*
+  **alinababer46@gmail.com**
 
 ## Reference:
 - **Libor Masek**, **Peter Kovesi**. *MATLAB Source Code for a Biometric Identification System Based on Iris Patterns*. The School of Computer Science and Software Engineering, The University of Western Australia, 2003.  
